@@ -1,0 +1,2 @@
+# cokecoin
+Cryptocurrency like Bitcoin
